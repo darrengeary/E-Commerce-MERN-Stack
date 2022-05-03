@@ -1,0 +1,16 @@
+::-moz-selection {
+  color: #fff;
+  background: #0088cc;
+}
+
+::selection {
+  color: #fff;
+  background: #0088cc;
+}
+
+:root {
+  --primary: #0088cc;
+  --secondary: #e36159;
+  --tertiary: #2baab1;
+  --quaternary: #383f48;
+}
