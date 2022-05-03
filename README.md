@@ -8,4 +8,5 @@ User Login, Search, Product Listings, Shopping Cart, User Profile Settings, Orde
 
 # Admin Features
 
-...
+
+![](https://github.com/darrengeary/E-Commerce-MERN-Stack/blob/main/gif.gif)
